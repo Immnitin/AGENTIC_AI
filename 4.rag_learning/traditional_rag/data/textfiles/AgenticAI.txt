@@ -1,0 +1,4 @@
+LangChain is a framework for developing applications powered by Large Language Models (LLMs). It provides components for prompt management, memory, chains, agents, and retrieval systems.
+LangGraph extends LangChain by introducing graph-based workflows. Developers can create nodes, edges, conditional routing, and persistent state management. LangGraph is particularly useful for building agentic workflows that require multiple steps and decision-making processes.
+The Model Context Protocol (MCP) is a standardized protocol that enables AI applications to communicate with external tools, resources, and services. MCP consists of three main components: MCP Hosts, MCP Clients, and MCP Servers.
+Tools perform actions, Resources provide contextual information, and Prompts define reusable instructions. MCP allows developers to expose capabilities in a standardized manner, making it easier for AI agents to interact with external systems.

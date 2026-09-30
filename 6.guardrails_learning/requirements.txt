@@ -1,0 +1,4 @@
+ipykernel
+python_dotenv
+langchain
+langchain_groq

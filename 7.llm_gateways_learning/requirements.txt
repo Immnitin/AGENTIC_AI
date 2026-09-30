@@ -1,0 +1,8 @@
+ipykernel
+langchain-community
+langchain
+langchain-groq
+litellm
+python-dotenv
+langchain-litellm
+langchain-core
